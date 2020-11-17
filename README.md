@@ -1,6 +1,6 @@
 # Trash detection using Yolov5
 ## Overview
-
+This model can be used to detect trash in streets that is generally being unknown to the Municipal Co-orperation and thus is not cleaned and creates unhgienic conditions. It will help the Municipal Co-orperation to know if a place is not clean and if a place is found to be not clean then that place can be cleaned by the Municipal Co-orperation.
 ## Requirements
 1. Pytorch
 2. Yolov5
